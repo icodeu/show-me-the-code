@@ -2,8 +2,10 @@
 
 video
 
-<video src="http://202.112.144.244/mp4files/400200000002442A/icodeyou.qiniudn.com/FedoraUpdateKernelBYicodeyou.mp4">
+<video src="http://202.112.144.244/mp4files/400200000002442A/icodeyou.qiniudn.com/FedoraUpdateKernelBYicodeyou.mp4" width="320" height="240" controls="controls">
+Your browser does not support the video tag.
 </video>
+
 
 #### 说明： ####
 
