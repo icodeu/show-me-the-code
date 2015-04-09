@@ -1,6 +1,9 @@
 ## Python 练习册，每天一个小程序 ##
 
-![image](http://202.112.144.244/mp4files/400200000002442A/icodeyou.qiniudn.com/FedoraUpdateKernelBYicodeyou.mp4)
+video
+
+<video src="http://202.112.144.244/mp4files/400200000002442A/icodeyou.qiniudn.com/FedoraUpdateKernelBYicodeyou.mp4">
+</video>
 
 #### 说明： ####
 
